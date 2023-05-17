@@ -7,7 +7,7 @@ public class NumberDivider {
     }
         public static void main(String[] args) {
             NumberDivider divide = new NumberDivider();
-            divide.divide (20);
+            divide.divide (25);
         }
 
     }
